@@ -1,5 +1,5 @@
-""" This module provides a hello and bye functions/
-"""
+"""This module provides a hello and bye functions"""
+
 
 def hello():
     """Print hello"""
