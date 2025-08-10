@@ -1,2 +1,2 @@
-# githubaction
-Testing github action
+# Repository: githubaction
+Testing GitHub actions
