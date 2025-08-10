@@ -1,10 +1,13 @@
+""" This module provides a hello and bye functions/
+"""
+
 def hello():
-    """ Print hello """
+    """Print hello"""
     print("hello")
 
 
 def bye():
-    """ Print bye """
+    """Print bye"""
     print("bye")
 
 
