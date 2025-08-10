@@ -1,12 +1,12 @@
 def hello():
-    ''' Print hello '''
+    """ Print hello """
     print("hello")
 
 
 def bye():
-    ''' Print bye '''
+    """ Print bye """
     print("bye")
 
 
-if __main__ == "main":
+if __name__ == "main":
     print(hello())
